@@ -1,4 +1,5 @@
 package acoes;
+
 public class Atividades implements Lista{
 
     public void acordar(){
