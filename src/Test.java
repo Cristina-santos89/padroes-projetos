@@ -23,7 +23,7 @@ public class Test {
         rotinas.almocar();
         rotinas.tomaragua();
         rotinas.jantar();
-        rotinas.fazertarefasdecasa();
+        rotinas.fazertarefasdacasa();
         rotinas.tomarbanho();
         rotinas.estudar();
         rotinas.anotaroqueaprendeu();

@@ -13,6 +13,6 @@ package acoes;
         void estudar();
         void anotaroqueaprendeu();
         void dormir();
-        void fazertarefasdecasa();
+        void fazertarefasdacasa();
         void tomarbanho();
     }

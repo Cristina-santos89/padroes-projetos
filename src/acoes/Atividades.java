@@ -49,7 +49,7 @@ public class Atividades implements Lista{
         System.out.println("Dormir... ");
     }
 
-    public void fazertarefasdecasa(){
+    public void fazertarefasdacasa(){
         System.out.println("Fazer as tarefas da casa... ");
     }
 

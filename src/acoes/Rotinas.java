@@ -55,8 +55,8 @@ public class Rotinas {
         lista.dormir();
     }
 
-    public void fazertarefasdecasa() {
-        lista.fazertarefasdecasa();
+    public void fazertarefasdacasa() {
+        lista.fazertarefasdacasa();
     }
 
     public void tomarbanho() {
